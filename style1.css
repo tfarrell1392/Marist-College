@@ -1,0 +1,30 @@
+body {
+    background-color: cornsilk;
+}
+
+h1{
+    color:cornflowerblue
+ text-align: center;
+}
+
+h2{
+color:aquamarine;
+text-align: center;
+text-shadow: 2px 2px gainsboro;
+}
+
+p{
+color: whitesmoke;
+font-family: verdana;
+font-size: 20px;
+text-align: justify;
+}
+
+.center{
+text-align: center;
+}
+
+
+
+
+
